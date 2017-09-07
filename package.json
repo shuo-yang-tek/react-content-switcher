@@ -1,0 +1,22 @@
+{
+   "name": "react-content-switcher",
+   "version": "1.1.0-dev",
+   "main": "index.js",
+   "license": "MIT",
+   "author": "Shuo Yang",
+   "dependencies": {
+      "prop-types": "^15.5.10",
+      "rxjs": "^5.4.3"
+   },
+   "devDependencies": {
+      "react": "^15.6.1",
+      "react-dom": "^15.6.1",
+      "react-scripts": "1.0.13"
+   },
+   "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test --env=jsdom",
+      "eject": "react-scripts eject"
+   }
+}
